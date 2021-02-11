@@ -1,5 +1,7 @@
 ## Welcome to awesome game of Tetris
 
+An **important** minor change by Ayaz.
+
 A project based learning activity for people who are getting started with Git and GitHub.
 You can play the game at: https://ayazs.github.io/github-games/
 To play the game:
